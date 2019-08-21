@@ -5,7 +5,7 @@ provider "ibm" {
 }
 
 locals {
-  BASENAME = "mike" 
+  BASENAME = "nadine" 
   ZONE     = "us-south-1"
 }
 
